@@ -8,6 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refren the previous guide,
 
  Listing products with React.js we created a simple list of the products we'd created in tc Dashboard. here we're going to look at how to display the contents of the cart and add those products to it. Finally, we'll add simulated recommended products to the cart to encourage further purchases.
+ You can see the Demo in this for add to cart page https://addproducttocart.netlify.app
 
 In this guide we'll:
 
